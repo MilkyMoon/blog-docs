@@ -7,25 +7,25 @@
   },
   {
     "title": "PHP",
-    "path": "/PHP",
+    "path": "/docs/PHP",
     "folder": "PHP",
     "description": "PHP应用"
   },
   {
     "title": "Golang",
-    "path": "/Golang",
+    "path": "/docs/Golang",
     "folder": "Golang",
     "description": "Go应用"
   },
   {
     "title": "JS/CSS",
-    "path": "/JS&CSS",
+    "path": "/docs/JS&CSS",
     "folder": "JS&CSS",
     "description": "前端"
   },
   {
     "title": "随笔",
-    "path": "/随笔",
+    "path": "/docs/随笔",
     "folder": "随笔",
     "description": "随笔"
   },
